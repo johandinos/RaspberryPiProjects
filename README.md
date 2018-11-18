@@ -1,2 +1,2 @@
 # RaspberryPiProjects
-A collection of funny projects
+A collection of projects
